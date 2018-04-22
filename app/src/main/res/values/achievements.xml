@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="achievement_break_even">CgkI6MmA6IQKEAIQAg</string>
+    <string name="achievement_double_the_fun">CgkI6MmA6IQKEAIQAw</string>
+    <string name="achievement_all_in">CgkI6MmA6IQKEAIQBA</string>
+    <string name="achievement_finance_guru">CgkI6MmA6IQKEAIQBQ</string>
+    <string name="achievement_epic_win">CgkI6MmA6IQKEAIQBg</string>
+    <string name="achievement_millionaire">CgkI6MmA6IQKEAIQBw</string>
+    <string name="leaderboard_greatest_investors">CgkI6MmA6IQKEAIQAA</string>
+    <string name="achievement_billionaire">CgkI6MmA6IQKEAIQCA</string>
+    <string name="achievement_broken_leaderboard">CgkI6MmA6IQKEAIQCQ</string>
+</resources>
